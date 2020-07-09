@@ -13,8 +13,7 @@ A simple script which emulates mechanical keyboard switch sounds. Inspired by a 
 3. Install dependencies with `pip install -r requirements.txt`
 
 ## Usage
-* Run program with `python app.py`
-* Include `--log` flag to log
+* Run `python app.py`
 
 ## Importing custom sounds
 1. Ensure clip filenames follow the key names for your keyboard's layout (include `--log` flag to see pressed keys)
